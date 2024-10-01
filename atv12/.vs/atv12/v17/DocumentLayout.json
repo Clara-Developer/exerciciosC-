@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ana Silva\\Desktop\\BackEnd\\exercicios\\atv12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0E8C72-3BB3-451C-8912-C104604ED704}|atv12\\atv12.csproj|c:\\users\\ana silva\\desktop\\backend\\exercicios\\atv12\\atv12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0E8C72-3BB3-451C-8912-C104604ED704}|atv12\\atv12.csproj|solutionrelative:atv12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCDAD5D-7062-484D-9461-3E53BD58253E}|..\\..\\introducaoc#\\10-ifElse\\10-ifElse\\10-ifElse.csproj|c:\\users\\ana silva\\desktop\\backend\\introducaoc#\\10-ifelse\\10-ifelse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ana Silva\\Desktop\\BackEnd\\introducaoc#\\10-ifElse\\10-ifElse\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\introducaoc#\\10-ifElse\\10-ifElse\\Program.cs",
+              "ToolTip": "C:\\Users\\Ana Silva\\Desktop\\BackEnd\\introducaoc#\\10-ifElse\\10-ifElse\\Program.cs",
+              "RelativeToolTip": "..\\..\\introducaoc#\\10-ifElse\\10-ifElse\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:18:21.199Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ana Silva\\Desktop\\BackEnd\\exercicios\\atv12\\atv12\\Program.cs",
+              "RelativeDocumentMoniker": "atv12\\Program.cs",
+              "ToolTip": "C:\\Users\\Ana Silva\\Desktop\\BackEnd\\exercicios\\atv12\\atv12\\Program.cs",
+              "RelativeToolTip": "atv12\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:17:09.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

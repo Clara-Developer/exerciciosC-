@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ana Silva\\Desktop\\BackEnd\\exercicios\\atv4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D67212-CB61-4C69-9B2F-83D2A704701C}|atv4\\atv4..csproj|c:\\users\\ana silva\\desktop\\backend\\exercicios\\atv4\\atv4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D67212-CB61-4C69-9B2F-83D2A704701C}|atv4\\atv4..csproj|solutionrelative:atv4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3225CA0-FACD-4A77-BE2C-513E5CA8C6B5}|..\\atv3\\atv3\\atv3..csproj|c:\\users\\ana silva\\desktop\\backend\\exercicios\\atv3\\atv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FA8F9B-E846-4540-A822-4EB367544259}|..\\atv2\\atv2\\atv2..csproj|c:\\users\\ana silva\\desktop\\backend\\exercicios\\atv2\\atv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ana Silva\\Desktop\\BackEnd\\exercicios\\atv3\\atv3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\atv3\\atv3\\Program.cs",
+              "ToolTip": "C:\\Users\\Ana Silva\\Desktop\\BackEnd\\exercicios\\atv3\\atv3\\Program.cs",
+              "RelativeToolTip": "..\\atv3\\atv3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:28:11.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ana Silva\\Desktop\\BackEnd\\exercicios\\atv2\\atv2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\atv2\\atv2\\Program.cs",
+              "ToolTip": "C:\\Users\\Ana Silva\\Desktop\\BackEnd\\exercicios\\atv2\\atv2\\Program.cs",
+              "RelativeToolTip": "..\\atv2\\atv2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:23:37.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ana Silva\\Desktop\\BackEnd\\exercicios\\atv4\\atv4\\Program.cs",
+              "RelativeDocumentMoniker": "atv4\\Program.cs",
+              "ToolTip": "C:\\Users\\Ana Silva\\Desktop\\BackEnd\\exercicios\\atv4\\atv4\\Program.cs",
+              "RelativeToolTip": "atv4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T18:56:53.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Ana Silva\Desktop\BackEnd\exercicios\atv1\atv1\bin\Debug\net8.0\atv1..exe
+C:\Users\Ana Silva\Desktop\BackEnd\exercicios\atv1\atv1\bin\Debug\net8.0\atv1..deps.json
+C:\Users\Ana Silva\Desktop\BackEnd\exercicios\atv1\atv1\bin\Debug\net8.0\atv1..runtimeconfig.json
+C:\Users\Ana Silva\Desktop\BackEnd\exercicios\atv1\atv1\bin\Debug\net8.0\atv1..dll
+C:\Users\Ana Silva\Desktop\BackEnd\exercicios\atv1\atv1\bin\Debug\net8.0\atv1..pdb
+C:\Users\Ana Silva\Desktop\BackEnd\exercicios\atv1\atv1\obj\Debug\net8.0\atv1..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Silva\Desktop\BackEnd\exercicios\atv1\atv1\obj\Debug\net8.0\atv1..AssemblyInfoInputs.cache
+C:\Users\Ana Silva\Desktop\BackEnd\exercicios\atv1\atv1\obj\Debug\net8.0\atv1..AssemblyInfo.cs
+C:\Users\Ana Silva\Desktop\BackEnd\exercicios\atv1\atv1\obj\Debug\net8.0\atv1..csproj.CoreCompileInputs.cache
+C:\Users\Ana Silva\Desktop\BackEnd\exercicios\atv1\atv1\obj\Debug\net8.0\atv1..dll
+C:\Users\Ana Silva\Desktop\BackEnd\exercicios\atv1\atv1\obj\Debug\net8.0\refint\atv1..dll
+C:\Users\Ana Silva\Desktop\BackEnd\exercicios\atv1\atv1\obj\Debug\net8.0\atv1..pdb
+C:\Users\Ana Silva\Desktop\BackEnd\exercicios\atv1\atv1\obj\Debug\net8.0\atv1..genruntimeconfig.cache
+C:\Users\Ana Silva\Desktop\BackEnd\exercicios\atv1\atv1\obj\Debug\net8.0\ref\atv1..dll
